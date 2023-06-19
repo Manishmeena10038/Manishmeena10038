@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manish Meena
-- 👀 I’m interested in coding, web development, embedded systems and IoT.
-- 🌱 I’m currently learning DSA and web development also working on my communication skills.
+- 👀 I’m interested in coding, web development, Machine learning, embedded systems, and IoT.
+- 🌱 I’m currently learning DSA, web development, and Machine Learning and also working on my communication skills.
 - 💞️ I’m looking to collaborate on internships in IOT and embedded systems.
 - 📫 How to reach me contact me on 6263355931 or mail me on manishmeena9133@gmail.com
 
