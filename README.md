@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishmeena10038&label=Profile%20views&color=0e75b6&style=flat" alt="manishmeena10038" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishmeena10038" alt="manishmeena10038" /></a> </p>
-
 - 🔭 I’m currently working on **Smart dustbin that can segregate degradable and nondegradable waste**
 
 - 🌱 I’m currently learning **React js,Data structure & Algorithms**
